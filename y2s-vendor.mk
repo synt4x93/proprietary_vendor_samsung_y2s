@@ -41,8 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/y2s/proprietary/vendor/lib/libexynoscamera_fakemultiframe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera_fakemultiframe.so \
     vendor/samsung/y2s/proprietary/vendor/lib/libexynoscamera_vpl_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera_vpl_plugin.so \
     vendor/samsung/y2s/proprietary/vendor/lib/librecordalive.so:$(TARGET_COPY_OUT_VENDOR)/lib/librecordalive.so \
-    vendor/samsung/y2s/proprietary/vendor/lib/libsec-ril-dsds.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsec-ril-dsds.so \
-    vendor/samsung/y2s/proprietary/vendor/lib/libsec-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsec-ril.so \
     vendor/samsung/y2s/proprietary/vendor/lib/libwrappergps.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwrappergps.so \
     vendor/samsung/y2s/proprietary/vendor/lib/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libsamsungSoundbooster_plus.so \
     vendor/samsung/y2s/proprietary/vendor/lib/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdap.so \
